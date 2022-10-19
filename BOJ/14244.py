@@ -17,4 +17,4 @@ for i in range(1, n):
         leaf += 1
     else:
         print(last_leaf, i)
-    last_leaf = 1
+    last_leaf = i
