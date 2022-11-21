@@ -1,7 +1,7 @@
 import sys
 import math
 M = 1
-while M != 0:
+while True:
     sosu_sum = 0
     M = int(sys.stdin.readline())
     if M == 0:
